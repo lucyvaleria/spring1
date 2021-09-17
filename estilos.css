@@ -1,0 +1,50 @@
+body {
+    background-image: url("azulito.jpg");
+}
+
+.cabezote {
+    background-color: #DBC6EB;
+    padding: 0.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 20px;
+}
+
+.titulo {
+    text-align: center;
+    background: transparent;
+}
+
+button {
+    background-color: #F3D1F4;
+    padding: 2%;
+    color: #1a2f8a;
+    border: 145%;
+    border-radius: 30px;
+    text-align: center;
+    border-top: 20%;
+    text-decoration: underline;
+    margin: 10% 2%;
+}
+
+.formulario {
+    text-align: center;
+    background-color: #997dad;
+    padding: 5px;
+}
+
+table {
+    text-align: left;
+    padding-top: 100px;
+    padding: 3px;
+}
+
+input {
+    border-radius: 30px;
+    text-align: start;
+}
+
+#btn-submit-form {
+    color: aquamarine;
+    background-color: #1a2f8a;
+}
