@@ -44,6 +44,7 @@ input {
 }
 
 #btn-submit-form {
+    padding: 20px 10px;
     color: aquamarine;
     background-color: #1a2f8a;
 }
